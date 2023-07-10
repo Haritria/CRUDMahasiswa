@@ -1,2 +1,2 @@
-# CRUDMahasiswa
+# CRUD Mahasiswa
 NAMA: HARI TRI ANGGORO NIM: G.111.22.0071
